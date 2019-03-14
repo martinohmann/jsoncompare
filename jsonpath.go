@@ -7,7 +7,7 @@ var rootJsonPath = jsonPath{"$"}
 
 // jsonPath is a container to keep track of the current nesting level in a json
 // object. This is used to provide the user with the exact path in the object
-// where an error during Compare occured.
+// where an error during Compare occurred.
 type jsonPath struct {
 	path string
 }
