@@ -40,7 +40,7 @@ const (
 	MatchSliceStrict = MatchSliceLen | MatchSliceOrder
 )
 
-// Coparator compares two json byte slices.
+// Comparator compares two json byte slices.
 type Comparator struct {
 	matchMode MatchMode
 }

@@ -2,6 +2,7 @@ jsoncompare
 ======
 
 [![Build Status](https://travis-ci.org/martinohmann/jsoncompare.svg)](https://travis-ci.org/martinohmann/jsoncompare)
+[![codecov](https://codecov.io/gh/martinohmann/jsoncompare/branch/master/graph/badge.svg)](https://codecov.io/gh/martinohmann/jsoncompare)
 [![Go Report Card](https://goreportcard.com/badge/github.com/martinohmann/jsoncompare)](https://goreportcard.com/report/github.com/martinohmann/jsoncompare)
 [![GoDoc](https://godoc.org/github.com/martinohmann/jsoncompare?status.svg)](https://godoc.org/github.com/martinohmann/jsoncompare)
 
